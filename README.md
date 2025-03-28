@@ -42,6 +42,7 @@
 
 
 <ul>Select Disk → Choose the VHD drive (Drive1)</ul>
+
 ![IMG-05](https://github.com/user-attachments/assets/3ca64daf-aa71-4fc3-bfc6-f5156dc6a318)
 
 
